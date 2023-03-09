@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Berom&fontAlign=70&rotate=13&fontAlignY=25&desc=&descAlign=70.&descAlignY=44)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goberomsu)](https://github.com/goberomsu/github-readme-stats)
 
