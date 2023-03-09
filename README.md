@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=footer&text=KoBeomsu&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer&text=KoBeomsu&fontSize=90)
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
