@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Berom%20hi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=Berom%20hi&fontSize=90)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goberomsu)](https://github.com/goberomsu/github-readme-stats)
 
