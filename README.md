@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer&text=KoBeomsu&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=capsule%20render&fontSize=90)
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goberomsu)](https://github.com/goberomsu/github-readme-stats)
