@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Ko Beomsu%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=KoBeomsu%20render&fontSize=90)
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
