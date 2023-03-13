@@ -5,5 +5,5 @@ Interested in Working Program
 
 Studying Real Time Communication && Serverside Programming
 ### I Studied These Things ✏️
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goberomsu&langs_count=10&layout=compact)]() |![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=310o)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goberomsu&layout=compact&hide=html,css)]() |![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=310o)
 |--|--|
