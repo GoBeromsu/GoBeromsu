@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme-hero.webp" alt="Abstract 3D artwork for Beomsu Koh’s profile." width="100%" />
+  <img src="./assets/readme-hero.png" alt="Beomsu Koh above sunlit white cumulus clouds, with open blue sky and subtle stars." width="100%" />
 </p>
 
 <h1 align="center">Beomsu Koh</h1>
@@ -46,3 +46,7 @@ I hold an MSc in Advanced Computer Science from [the University of Sheffield](ht
 ## Find me
 
 [Website](https://beomsukoh.com/) · [YouTube](https://www.youtube.com/@beomsuKoh) · [LinkedIn](https://www.linkedin.com/in/beomsu-koh/) · [X](https://x.com/BeromArtDev) · [Instagram](https://www.instagram.com/hebrews_0218/) · [Threads](https://www.threads.com/@hebrews_0218)
+
+## Artwork
+
+The aerial cloud artwork was composed and rendered in Blender using the Walt Disney Animation Studios Cloud Data Set, with the dataset’s reference photograph credited to Kevin Udy. The adapted artwork is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); see [artwork credits and reuse terms](./assets/ARTWORK.md). This license applies to the cloud artwork, not repository source code.
