@@ -11,16 +11,13 @@
 
 <p align="center">
   <a href="https://beomsukoh.com/">Website</a> ·
-  <a href="https://github.com/SeniorAILab">Senior AI Lab</a> ·
   <a href="#open-source">Projects</a> ·
   <a href="#find-me">Find me</a>
 </p>
 
 ## What I’m building
 
-I’m **Co-founder & CTO at [Senior AI Lab](https://github.com/SeniorAILab)**, leading technology and service development. I’m currently building **SeeON**, a safety-monitoring service for eldercare.
-
-I’m also building **[Oh My Second Brain](https://github.com/Xia-Ataraxia/oh-my-second-brain)**, a user-owned knowledge and convention layer that connects Obsidian and Markdown vaults with AI agents.
+I’m building **[Oh My Second Brain](https://github.com/Xia-Ataraxia/oh-my-second-brain)**, a user-owned knowledge and convention layer that connects Obsidian and Markdown vaults with AI agents.
 
 My interests meet at AI, agents, and knowledge management: how they can support real work, and how we can keep our attention on what matters.
 
