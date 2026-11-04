@@ -17,7 +17,7 @@
 
 ## What I’m building
 
-I’m building **[Oh My Second Brain](https://github.com/Xia-Ataraxia/oh-my-second-brain)**, a user-owned knowledge and convention layer that connects Obsidian and Markdown vaults with AI agents.
+I’m building **[Oh My Second Brain](https://github.com/GoBeromsu/oh-my-second-brain)**, a user-owned knowledge and convention layer that connects Obsidian and Markdown vaults with AI agents.
 
 My interests meet at AI, agents, and knowledge management: how they can support real work, and how we can keep our attention on what matters.
 
