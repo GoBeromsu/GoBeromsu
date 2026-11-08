@@ -27,9 +27,17 @@ All technology amplifies intent. I believe good intent makes the world better.
 
 I want to solve the problem of attention theft in modern society and help people stay truly focused on what matters to them.
 
+Ataraxia is the old word for an untroubled mind. I use it as a working aim: stay with the work, and keep the choice of where my attention goes. Four habits follow from that. Keep the work calm instead of cluttered. Treat a task as done when the result can be inspected. Keep decisions and context past the session. Leave automation with one owner, clear boundaries, and a way to undo it.
+
 ## Open source
 
 I maintain [Metadata-Auto-Classifier](https://github.com/GoBeromsu/Metadata-Auto-Classifier), an Obsidian plugin.
+
+I also share related work in the same area:
+
+- [Obsidian Vault Template](https://github.com/GoBeromsu/obsidian-vault-template): PARA and Zettelkasten folders, periodic planning templates, and shared rules for humans and AI agents (EN/KO).
+- [secondbrain-skills](https://github.com/GoBeromsu/secondbrain-skills): agent skills for Obsidian workflows.
+- [craft-skills](https://github.com/GoBeromsu/craft-skills): vendor-neutral agent skills for software and research work.
 
 I’ve also contributed to:
 
